@@ -176,6 +176,13 @@
 	--button-border:1px solid #212121;
 }
 
+/* eBay */
+.button-ebay {
+    --button-text: #000000;
+    --button-background: #ffffff;
+    --button-border: 1px solid #000000;
+}
+
 /* Etsy */
 .button-etsy {
 	--button-text:#ffffff;
@@ -300,6 +307,13 @@
 	--button-border:1px solid #FFFFFF;
 }
 
+/* kleinanzeigen */
+.button-kleinanzeigen {
+    --button-text: #264a00;
+    --button-background: #ffffff;
+    --button-border: 1px solid #000000;
+}
+
 /* Ko-fi */
 .button-ko-fi {
 	--button-text:#ffffff;
@@ -398,6 +412,13 @@
 	--button-text:#000000;
 	--button-background:#ffffff;
 	--button-border:1px solid #212121;
+}
+
+/* Printables */
+.button-printables {
+    --button-text: #000000;
+    --button-background: #ffffff;
+    --button-border: 1px solid #000000;
 }
 
 /* Product Hunt */
